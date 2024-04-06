@@ -2,7 +2,7 @@
 
 > Given a table where rows correspond to records and columns correspond to attributes, we want to find a small number of patterns that succinctly summarize the dataset. 
 
-TSum is a [table summarization algorithm published by Google Research.](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41683.pdf) This repository is a Python implementation of the algorithm using Dask Dataframes for scale.  
+TSum is a [table summarization algorithm published by Google Research.](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41683.pdf) This is a Python implementation of the algorithm using Dask Dataframes for scale.  
 
 ### Usage
 
